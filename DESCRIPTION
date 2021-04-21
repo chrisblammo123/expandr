@@ -1,0 +1,13 @@
+Package: expandr
+Type: Package
+Title: Key Features And Functions Missing From Vanilla R
+Version: 0.01.0
+Author: Chris Struck
+Maintainer: Chris Struck <struck1@stolaf.edu>
+Description: Useful features, predefined variables, and functions
+    that are found commonly in other programming languages or other
+    uses that are frequent enough that they deserve prebaked tools.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
